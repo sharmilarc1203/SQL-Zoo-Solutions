@@ -25,6 +25,7 @@ Solutions to All SQL Zoo Problems on http://sqlzoo.net/
 
 # B. MISCELLANEOUS
 
-Nobel Prizes: Aggregate functions
+1 Nobel Prizes: Aggregate functions
 
+2 Using GROUP BY and HAVING.
 
