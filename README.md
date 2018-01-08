@@ -29,3 +29,4 @@ Solutions to All SQL Zoo Problems on http://sqlzoo.net/
 
 2 Using GROUP BY and HAVING.
 
+3 Old JOIN Tutorial
