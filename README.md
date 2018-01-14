@@ -4,23 +4,19 @@ Solutions to All SQL Zoo Problems on http://sqlzoo.net/
 # A. MAIN 
 0 SELECT basics
 
-1 SELECT name
+1  SELECT from World
 
-2 SELECT from World
+2 SELECT from Nobel
 
-3 SELECT from Nobel
+3 SELECT within SELECT
 
-4 SELECT within SELECT
+4 SUM and COUNT
 
-5 SUM and COUNT
+5 JOIN
 
-6 JOIN
+6 More JOIN operations
 
-7 More JOIN operations
-
-8 Using Null
-
-9 Self join
+7 Using Null
 
 
 # B. MISCELLANEOUS
