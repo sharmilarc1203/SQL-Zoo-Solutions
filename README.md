@@ -30,3 +30,11 @@ Solutions to All SQL Zoo Problems on http://sqlzoo.net/
 2 Using GROUP BY and HAVING.
 
 3 Old JOIN Tutorial
+
+4 BBC Country Profiles
+
+5 Using GROUP BY HAVING
+
+6 Using NESTED SELECT
+
+7 Using SUM, COUNT, MAX, DISTINCT and OREDR BY
