@@ -33,8 +33,6 @@ Solutions to All SQL Zoo Problems on http://sqlzoo.net/
 
 4 BBC Country Profiles
 
-5 Using GROUP BY HAVING
+5  Using NESTED SELECT
 
-6 Using NESTED SELECT
-
-7 Using SUM, COUNT, MAX, DISTINCT and OREDR BY
+6 Using SUM, COUNT, MAX, DISTINCT and OREDR BY
